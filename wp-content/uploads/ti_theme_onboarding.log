@@ -1,0 +1,14 @@
+[10/Oct/2020:03:41:45] (I): WordPress Instance Info:
+[10/Oct/2020:03:41:45] (I): Home URL : http://localhost/ngurahwordpress
+[10/Oct/2020:03:41:45] (I): Site URL : http://localhost/ngurahwordpress
+[10/Oct/2020:03:41:45] (I): WordPress Version : 5.5.1
+[10/Oct/2020:03:41:45] (I): Onboarding Version : 1.0.10
+[10/Oct/2020:03:41:45] (I): Multisite : No
+[10/Oct/2020:03:41:45] (I): Server Info : Apache/2.4.46 (Win64) OpenSSL/1.1.1g PHP/7.4.10
+[10/Oct/2020:03:41:45] (I): PHP Version : 7.4.10
+[10/Oct/2020:03:41:45] (I): HTTPS : No
+[10/Oct/2020:03:41:45] (I): PHP Max Execution Time : 120
+[10/Oct/2020:03:41:45] (I): PHP Max Input Vars : 1000
+[10/Oct/2020:03:41:45] (I): Max Upload Size : 41943040
+[10/Oct/2020:03:41:45] (I): Plugins:
+[10/Oct/2020:03:41:45] (I): [PLUGIN] Templates Patterns Collection : v1.0.10 (ThemeIsle)
