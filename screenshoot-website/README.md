@@ -1,4 +1,4 @@
-Navbar =
+Keterangan Screenshoot =
 1. Homepage : Halaman utama yang dituju user
 2. Blog's : Navigasi blog, post terbaru
 3. About Me : Tentang pemilik website
