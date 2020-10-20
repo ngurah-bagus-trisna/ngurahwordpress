@@ -2,6 +2,7 @@
 Project wordpress untuk challenge Jongcoding
 - Untuk melihat screenshoot dari website/blog saya, Bisa ke "screenshoot-wordress"
 - Untuk melihat backup database, bisa ke "database"
+- ngurahbagus.my.id
 # Preview Website
 # Homepage
 ![Homepage](https://user-images.githubusercontent.com/69294607/95985038-a699b680-0e56-11eb-87fb-b78e8f667a43.png)
